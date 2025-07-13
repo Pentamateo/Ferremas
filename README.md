@@ -16,5 +16,9 @@ en la siguiente imagen tiene que ir la conexion a la base de datos local aca un 
 <img width="784" height="87" alt="image" src="https://github.com/user-attachments/assets/2e72d34e-e4e4-4816-aa5b-70dd38fe152c" />
 
 
-postgresql+psycopg2://{user}:{Password}@localhost:5432/postgres
+postgresql+psycopg2://{user}:{Password}@{host}:{port}/{db_name}
+
+por ultimo el codigo contiene un archivo requirements.txt con todo lo que contiene el codigo
+
+<img width="304" height="44" alt="image" src="https://github.com/user-attachments/assets/9f2b17f6-c861-429c-b22d-53c998f96d80" />
 
